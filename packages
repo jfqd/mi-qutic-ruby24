@@ -1,0 +1,13 @@
+gcc49
+gmake
+apache
+mysql-client-5.6.38
+nodejs
+ImageMagick
+git-base
+memcached
+redis
+ruby24
+ruby24-passenger
+ap24-ruby24-passenger
+ap24-usdt
