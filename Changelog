@@ -1,5 +1,10 @@
 # Changelog
 
+## 18.1.0
+
+* use pkgsrc 2018Q1
+* add ghostscript packages
+
 ## 17.4.0
 
 * First release, copied from mi-qutic-ruby

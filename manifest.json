@@ -1,6 +1,6 @@
 {
   "name":         "qutic-ruby24",
-  "version":      "17.4.0",
+  "version":      "17.8.1",
   "description":  "qutic ruby 2.4 image",
   "organization": "qutic development",
   "brand":        "Ruby 2.4 Instance",
