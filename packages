@@ -3,6 +3,11 @@ gmake
 apache
 mysql-client-5.6.38
 nodejs
+ghostscript
+ghostscript-cidfonts
+ghostscript-cmaps
+ghostscript-fonts
+ghostscript-cmaps
 ImageMagick
 git-base
 memcached
