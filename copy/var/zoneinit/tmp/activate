@@ -6,7 +6,7 @@ if [ -n "$GEM_HOME" ]; then
 fi
 
 export GEM_HOME=$VIRTUAL_ENV/gem_home
-export GEM_PATH=$(/opt/local/bin/gem env home):/opt/local/lib/ruby/gems/2.2.0
+export GEM_PATH=$(/opt/local/bin/gem env home):/opt/local/lib/ruby/gems/2.4.0
 
 if [ -n "$BASH" -o -n "$ZSH_VERSION" ] ; then
   hash -r 2> /dev/null

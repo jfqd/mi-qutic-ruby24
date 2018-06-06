@@ -4,7 +4,7 @@
 #
 export HOME=/home/ruby/www/current/
 export PATH="/home/ruby/www/shared/gems/gem_home/bin:/home/ruby/www/shared/gems/gem_home/bin:/usr/local/sbin:/usr/local/bin:/opt/local/sbin:/opt/local/bin:/usr/sbin:/usr/bin:/sbin"
-export GEM_PATH="/home/ruby/www/shared/gems/gem_home:/opt/local/lib/ruby/gems/2.2.0"
+export GEM_PATH="/home/ruby/www/shared/gems/gem_home:/opt/local/lib/ruby/gems/2.4.0"
 export GEM_HOME="/home/ruby/www/shared/gems/gem_home"
 export RAILS_ENV=production
 
