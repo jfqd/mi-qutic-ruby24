@@ -1,13 +1,12 @@
 gcc49
 gmake
 apache
-mysql-client-5.6.38
+mysql-client-5.6.39
 nodejs
 ghostscript
 ghostscript-cidfonts
 ghostscript-cmaps
 ghostscript-fonts
-ghostscript-cmaps
 ImageMagick
 git-base
 memcached
@@ -15,4 +14,4 @@ redis
 ruby24
 ruby24-passenger
 ap24-ruby24-passenger
-ap24-usdt
+# ap24-usdt
