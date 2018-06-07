@@ -3,6 +3,7 @@ gmake
 apache
 mysql-client-5.6.39
 nodejs
+xinit
 ghostscript
 ghostscript-cidfonts
 ghostscript-cmaps
@@ -14,4 +15,4 @@ redis
 ruby24
 ruby24-passenger
 ap24-ruby24-passenger
-# ap24-usdt
+ap24-usdt
