@@ -1,7 +1,7 @@
 gcc49
 gmake
 apache
-mysql-client-5.6.39
+mysql-client-5.6.38
 nodejs
 xinit
 ghostscript
@@ -12,6 +12,7 @@ ImageMagick
 git-base
 memcached
 redis
+libxslt
 ruby24
 ruby24-passenger
 ap24-ruby24-passenger
