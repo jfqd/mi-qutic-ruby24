@@ -1,5 +1,12 @@
 # Changelog
 
+## 17.8.1
+
+* use qutic 2018Q1 base image
+* fix wrong passenger pkgsrc build 2017Q4 for ruby 2.4
+* fix caching issue by removing Vary header
+* update mysql-client version for 2018Q1
+
 ## 17.4.1
 
 * add ghostscript packages

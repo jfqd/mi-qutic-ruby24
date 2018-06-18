@@ -5,7 +5,7 @@
   "organization": "qutic development",
   "brand":        "Ruby 2.4 Instance",
   "homepage":     "https://github.com/jfqd/mi-qutic-ruby24",
-  "base":         "26cf8c16-2b8e-11e8-8d7f-3fff13b53d67",
+  "base":         "61f10a0e-72e7-11e8-a968-c36b24f66176",
   "customer_metadata": {
     "admin_authorized_keys":  {"type": "text", "description": "SSH public authorized key(s) for the admin user"},
     "ruby_authorized_keys":   {"type": "text", "description": "SSH public authorized key(s) for the ruby user"},
