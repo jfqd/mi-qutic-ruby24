@@ -4,6 +4,7 @@ apache
 mysql-client-5.6.39
 nodejs
 xinit
+cups-base
 ghostscript
 ghostscript-cidfonts
 ghostscript-cmaps
