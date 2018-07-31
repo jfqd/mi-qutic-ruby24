@@ -1,7 +1,7 @@
 gcc49
 gmake
 apache
-mysql-client-5.6.39
+percona-client
 nodejs
 xinit
 cups-base
