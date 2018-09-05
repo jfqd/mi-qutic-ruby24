@@ -43,6 +43,7 @@ gem update --system
 gem install bundler
 gem install gemenv
 gem install mysql2
+gem install pkg-config
 
 echo "* Setup ruby home"
 groupadd -g 1100 ruby
