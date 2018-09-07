@@ -10,6 +10,7 @@ ghostscript-cidfonts
 ghostscript-cmaps
 ghostscript-fonts
 ImageMagick
+ffmpeg3
 git-base
 memcached
 redis
