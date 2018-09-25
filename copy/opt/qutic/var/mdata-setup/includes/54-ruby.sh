@@ -15,6 +15,14 @@ fi
 if mdata-get server_port 1>/dev/null 2>&1; then
   SERVER_PORT=`mdata-get server_port`
   sed -i "s:SERVER_PORT:$SERVER_PORT:g" /opt/local/etc/httpd/vhosts/01-ruby.conf
+  # enable ssh
+  if SERVER_PORT = "443"; then
+    touch /opt/local/etc/httpd/certs/cert.pem
+    touch /opt/local/etc/httpd/certs/key.pem
+    sed -i "s:# SSLEngine:SSLEngine:g" /opt/local/etc/httpd/vhosts/01-ruby.conf
+    sed -i "s:# SSLCertificateFile:SSLCertificateFile:g" /opt/local/etc/httpd/vhosts/01-ruby.conf
+    sed -i "s:# SSLCertificateKeyFile:SSLCertificateKeyFile:g" /opt/local/etc/httpd/vhosts/01-ruby.conf
+  fi
 else
   sed -i "s:Listen SERVER_PORT::g" /opt/local/etc/httpd/vhosts/01-ruby.conf
   sed -i "s:SERVER_PORT:80:g" /opt/local/etc/httpd/vhosts/01-ruby.conf
