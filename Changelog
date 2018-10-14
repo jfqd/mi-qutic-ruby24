@@ -1,5 +1,16 @@
 # Changelog
 
+## 18.3.0
+
+* use qutic 2018Q3 base image
+* remove mysql2 gem
+* remove old passenger error files
+* add ssl option for apache
+* add rsync package
+* add ffmpeg package
+* add pkg-config gem
+* use percona-client
+
 ## 18.2.0
 
 * use qutic 2018Q2 base image

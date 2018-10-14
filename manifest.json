@@ -1,11 +1,11 @@
 {
   "name":         "qutic-ruby24",
-  "version":      "18.2.0",
+  "version":      "18.3.0",
   "description":  "qutic ruby 2.4 image",
   "organization": "qutic development",
   "brand":        "Ruby 2.4 Instance",
   "homepage":     "https://github.com/jfqd/mi-qutic-ruby24",
-  "base":         "5d541d8e-948d-11e8-af19-ff9be7f5cc6f",
+  "base":         "1d443756-cfa2-11e8-9afc-c33d02fb1f71",
   "customer_metadata": {
     "admin_authorized_keys":           {"type": "text", "description": "SSH public authorized key(s) for the admin user"},
     "ruby_authorized_keys":            {"type": "text", "description": "SSH public authorized key(s) for the ruby user"},

@@ -42,7 +42,6 @@ echo "gem: --no-rdoc --no-ri " >> /opt/local/etc/gemrc
 gem update --system
 gem install bundler
 gem install gemenv
-gem install mysql2
 gem install pkg-config
 
 echo "* Setup ruby home"
