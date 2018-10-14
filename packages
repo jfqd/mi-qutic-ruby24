@@ -1,4 +1,4 @@
-gcc49
+gcc7
 gmake
 apache
 percona-client

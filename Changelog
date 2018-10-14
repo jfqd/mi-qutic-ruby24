@@ -10,6 +10,7 @@
 * add ffmpeg package
 * add pkg-config gem
 * use percona-client
+* use gcc7
 
 ## 18.2.0
 
